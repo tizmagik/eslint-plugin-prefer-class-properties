@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-prefer-class-properties",
+  "version": "0.0.0",
+  "description": "Prefer class properties instead of defining them in the constructor()",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "prefer-class-properties",
+    "eslint-plugin-prefer-class-properties"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "eslint": "~3.9.1",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "ISC"
+}
