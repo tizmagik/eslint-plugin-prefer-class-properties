@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-prefer-class-properties",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prefer class properties instead of defining them in the constructor()",
   "keywords": [
     "eslint",
